@@ -1,2 +1,2 @@
 # yellow OS
-Mozalla's first operating system.
+Mozalla's yellow operating system.
